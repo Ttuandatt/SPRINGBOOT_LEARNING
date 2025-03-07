@@ -1,0 +1,9 @@
+# Ignore assets in phoneStore
+/JSP SERVLET/workspace3/phoneStore/src/main/webapp/assets/*
+
+# Ignore specific files or directories in Python_thuchanh
+/Python_thuchanh/HOMEWORK*/bai*.py
+/Python_thuchanh/HOMEWORK*/test.py
+
+# Ignore vendor assets in TomcatTest
+/JSP SERVLET/workspace3/TomcatTest/src/main/webapp/assets/vendor/*
